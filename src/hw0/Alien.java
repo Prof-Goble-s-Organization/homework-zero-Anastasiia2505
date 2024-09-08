@@ -3,7 +3,7 @@
  /**
  * An Alien object extends the SpaceAlien class, implements the ZapsWithSlime interface
  * and stores additional information aliens.
- * 
+ *  
  * @author Anastasiia Halchenko
  * @author Dickinson College
  * @version September 2024

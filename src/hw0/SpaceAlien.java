@@ -10,10 +10,10 @@ package hw0;
  */
 
 public class SpaceAlien {
-    // the name of the alien's home planet
+    // the name of the alien's home planet 
     private String homePlanet;
 
-    // Distance of the home planet from earth, in light years
+    // Distance of the home planet from earth in light years
     private double distanceFromEarth;
 
     public SpaceAlien(String homePlanet, double distanceFromEarth) {
