@@ -30,4 +30,14 @@ public class SpaceAlien {
         SpaceAlien descolada = new SpaceAlien("Lusitania", 42);
         descolada.doGreeting();
     }
+
+    public String getHomePlanet() {
+		return homePlanet;
+	}
+
+	public double getDistanceFromEarth() {
+		return distanceFromEarth;
+	}
+
+	
 }
