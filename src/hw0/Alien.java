@@ -16,7 +16,7 @@ public class Alien extends SpaceAlien implements ZapsWithSlime {
 
     public Alien(String homePlanet, double distanceFromEarth, String initName, String initSlimeColor){
        super(homePlanet, distanceFromEarth);
-       name = initName;
+       name = initName;   
        slimeColor = initSlimeColor;
 
     }
