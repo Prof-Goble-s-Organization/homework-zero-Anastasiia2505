@@ -31,7 +31,7 @@ public class Alien extends SpaceAlien implements ZapsWithSlime {
 
     @Override
      public void doGreeting() {
-        System.out.println("Hi form planet " + getHomePlanet() + ", " + getDistanceFromEarth() + " light years away. My name is "
+        System.out.println("Hey form planet " + getHomePlanet() + ", " + getDistanceFromEarth() + " light years away. My name is "
         		+ name + " and my slime color is " + slimeColor);
     } 
 
